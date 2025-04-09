@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Skitionek/notify-microsoft-teams.git"
+    "url": "git+https://github.com/AMenzel/notify-microsoft-teams.git"
   },
   "husky": {
     "hooks": {
